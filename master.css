@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+.cont{
+    width: 100vw;
+    height: 100vh;
+    background-color:#9A9A9A;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+}
+.wrap{
+    width: 1920px;
+    height: 1080px;
+    background-image: url('img/front.png');
+    background-size: cover;
+    margin: auto;
+}
+.in{
+    width: 99px;
+    height: 99px;
+    background-image: url(img/instar.png);
+    position: 200px;
+    margin-top: 820px;
+    margin-left: 200px;
+}
+nav{
+    width: 1100px;
+    height: 95px;
+    margin: 0 auto;
+    padding-top: 38px;
+}
+ul{
+    width: 1100px;
+    height: 95px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 370px;
+}
+li{}
+.bt00{padding-right: 249px;}
+.bt01{}
+.bt02{}
+.bt03{}
+
+
+.s01_b00{
+    width: 100%;
+    
+}
+.s01_b01{
+    height: 1060px;
+    background-image: url('img/sub01.png');
+    background-size: cover;
+    display: flex;
+
+}
+.s01_b01_txt{
+    width: 1000px;
+    height: 684px;
+    margin: auto;
+    padding-top: 1100px;
+}
+.s01_b02{
+    height: 2300px;
+}
+.s01_b03{
+    height: 0px;
+}
+.s01_b04{
+    height: 700px;
+}
+.s01_cen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.s02_b00{
+    width: 100%;
+}
+.s02_b02{
+    height: 1060px;
+    background-image: url('img/sub02.png');
+    background-size: cover;
+    display: flex;
+
+}
+.s02_b02_txt{
+    width: 2000px;
+    height: 684px;
+    margin: auto;
+    padding-top: 1300px;
+}
+.s02_b02{
+    height: 1168px;
+}
+.s02_b03{
+    height: 288px;
+}
+.s02_b04{
+    height: 650px;
+}
+.s02_cen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s03_b00{
+    width: 100%;
+}
+.s03_b02{
+    height: 1060px;
+    background-image: url('img/sub02.png');
+    background-size: cover;
+    display: flex;
+
+}
+.s03_b02_txt{
+    width: 2000px;
+    height: 684px;
+    margin: auto;
+    padding-top: 1300px;
+}
+.s03_b02{
+    height: 1168px;
+}
+.s03_b03{
+    height: 288px;
+}
+.s03_b04{
+    height: 650px;
+}
+.s03_cen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
